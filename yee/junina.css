@@ -1,0 +1,88 @@
+body{
+    background-color: #f7b267;
+}
+
+header{
+    background-color: #f4845f;
+    width: 100%;
+    text-align: center;
+    height: 100px;
+
+}
+.menu{
+    text-align: center;
+    background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-scottish-plaid-background-picture-image_1221125.jpg);
+   
+    width: 100%;
+    height: 80px;
+    border-radius: 10px;
+
+}
+a:link, a:visited{
+    color: black;
+}
+button{
+    border-radius: 20px;
+    background-color: #ee9c2e;
+}
+ 
+
+  @media (min-width: 576px) {
+    body{
+        background-color: #f7b267;
+    }
+    
+    header{
+        background-color: #f4845f;
+        width: 100%;
+        text-align: center;
+        height: 100px;
+    
+    }
+    .menu{
+        text-align: center;
+        background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-scottish-plaid-background-picture-image_1221125.jpg);
+       
+        width: 100%;
+        height: 80px;
+        border-radius: 10px;
+    
+    }
+    a:link, a:visited{
+        color: black;
+    }
+    button{
+        border-radius: 20px;
+        background-color: #ee9c2e;
+    }
+}
+
+@media (min-width: 768px){
+    body{
+        background-color: #f7b267;
+    }
+    
+    header{
+        background-color: #f4845f;
+        width: 100%;
+        text-align: center;
+        height: 100px;
+    
+    }
+    .menu{
+        text-align: center;
+        background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-scottish-plaid-background-picture-image_1221125.jpg);
+       
+        width: 100%;
+        height: 80px;
+        border-radius: 10px;
+    
+    }
+    a:link, a:visited{
+        color: black;
+    }
+    button{
+        border-radius: 20px;
+        background-color: #ee9c2e;
+    }
+}
